@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type d -ls
+find -type d -okdir
