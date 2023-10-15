@@ -1,2 +1,2 @@
 #!/bin/bash
-ls . -empty -laR
+find . -empty -printf %f'\n'
